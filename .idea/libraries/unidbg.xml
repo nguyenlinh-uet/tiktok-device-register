@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="unidbg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/unidbg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/unidbg.jar!/example_binaries" />
+    </SOURCES>
+  </library>
+</component>
